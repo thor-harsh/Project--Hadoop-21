@@ -1,6 +1,4 @@
 # Project--Hadoop-21
-# Project--Hadoop-19
-
 <table>
 
 **In this Project we will be using Spark SQL to create a dataframe instead of RDD to count the average number of friends associated with each age group. Then we also sort the result by age and also added alias for that column**
