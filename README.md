@@ -20,7 +20,7 @@ Spark SQL supports the HiveQL syntax as well as Hive SerDes and UDFs, allowing y
  **(Age):** The age of the user <br></br>
  **(Friends):** The total number of friends <br></br>
  
- **Important Note: Go through the dataset before jumping to the code**<br></br>
+ **Important Note: Go through the dataset before jumping to the code**
 
 </table>
 
